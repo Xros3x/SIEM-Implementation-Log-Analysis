@@ -169,8 +169,6 @@ Built a custom Splunk Dashboard Studio monitoring dashboard covering all endpoin
 - Total Windows Failed Logons
 - Security Event Timeline Across All Endpoints
 
-![SOC Dashboard](screenshots/splunk-dashboard.png)
-
 ---
 
 ## Incident Reports
