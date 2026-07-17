@@ -103,7 +103,7 @@ index=main host="raspberrypi" "Failed password" | stats count by host
 
 ### 2. Network Reconnaissance Scan
 **MITRE ATT&CK:** T1046 — Network Service Discovery
-(screenshots/nmap-detection.png.png)
+(screenshots/map-detection.png.png)
 **Attack:**
 ```bash
 nmap -sV VICTIM-IP
